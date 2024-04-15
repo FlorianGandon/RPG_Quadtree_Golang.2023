@@ -1,0 +1,36 @@
+{
+    "_comment": "configuration/configuration.go pour explication des configs",
+    "DebugMode": false,
+    "NumTileX": 21,
+    "NumTileY": 15,
+    "TileSize": 16,
+    "NumCharacterAnimImages": 5,
+    "NumFramePerCharacterAnimImage": 5,
+    "NumTileForDebug": 10,
+    "FloorKind": 2,
+    "FloorFile": "../floor-files/rpg",
+
+    "CameraMode": 2,
+    "StopCamera": false,
+    "RoundEarth": false,
+
+    "RandomGeneration": false,
+    "ChunkSize": 20,
+    "Seed": 0,
+    "RandomGenerationSave" : true,
+
+    "ConnectedTile": true,
+
+    "ActiveBigStep": true,
+    "BigStep": 10,
+
+    "BetterCharacter": true,
+    "BetterBlocking": true,
+
+    "ActivePortal" : true,
+    "ActiveParticlesPortal": true,
+
+    "ActiveScrolling": true,
+
+    "FullScreen": false
+}
