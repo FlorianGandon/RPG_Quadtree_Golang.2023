@@ -1,7 +1,7 @@
 package camera
 
 import (
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/configuration"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/configuration"
 )
 
 // Update met à jour la position de la caméra à chaque pas

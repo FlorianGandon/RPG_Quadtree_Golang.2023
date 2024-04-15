@@ -1,6 +1,6 @@
 package game
 
-import "gitlab.univ-nantes.fr/jezequel-l/quadtree/configuration"
+import "github.com/FlorianGandon/RPG_Quadtree_Golang.2023/configuration"
 
 // Layout détermine la taille de l'image sur laquelle Ebitengine
 // affiche les images du jeu en fonction de la taille de la fenêtre

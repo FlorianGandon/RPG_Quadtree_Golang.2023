@@ -1,18 +1,76 @@
-# project-quadtree
+# Création d'une base de rpg composée de tuile en Golang 2023
+C'est un projet pour l'université créer par Loig JEZEQUEL. Il y avait deux objectifs principaux. Le premier enregistrer la carte dans un quadtree et non pas dans un tableau de tableau. Le deuxième et d'ajouter des modulesau programme de base en pouvant facilement les activer et les désactiver grâce à un fichier config.json.
+
+Le projet : 
+<br>
 Code source initial pour le projet d'introduction au développement (R1.01) et de SAÉ implémentation d'un besoin client (SAE1.01), année 2023-2024.
 
+## Installation
 
-**Paquet à installer !!**
-sudo apt install libgtk-3-dev
+Install RPG_Quadtree_Golang.2023 with git
+
+```bash
+  git clone https://github.com/FlorianGandon/RPG_Quadtree_Golang.2023.git
+```
+### ⚠️ If you are on Linux, you need to install :
+
+```bash
+  sudo apt install libgtk-3-dev
+```
+
+
+## Run Locally
+
+Install the project
+
+### With the bash
+
+Go to the folder 'cmd' in the project directory
+
+```bash
+  cd RPG_Quadtree_Golang.2023/cmd/
+```
+
+Build the project
+
+```bash
+  go build .\main.go
+```
+
+Run the executable file
+
+### With GoLand (JetBrains)
+
+<img src="portfolio/goland configuration.png">
+
+## Screenshots
+
+### Generation thanks floor file
+
+<img src="portfolio/fenêtre RPG.png">
+
+### Random Generation
+
+<img src="portfolio/fenêtre random.png">
+
+### Debug Mode (key D)
+
+<img src="portfolio/fenêtre debug.png">
+
+### The config file in JSON
+
+<img src="portfolio/fenêtre config.png">
+
+## Documentation
 
 Première partie, explication de config.json :
 
 NumTileX et NumTileY représentent la taille en tuile de l'affichage.
 
 FloorKind représente la structure de la carte :
- - 0 le sol est un quadrillage de tuiles d'herbe et de tuiles de désert
- - 1 la carte est dans un tableau de tableau
- - 2 la carte est dans un quadtree
+- 0 le sol est un quadrillage de tuiles d'herbe et de tuiles de désert
+- 1 la carte est dans un tableau de tableau
+- 2 la carte est dans un quadtree
 
 CameraMode modifie le comportement de la caméra :
 - 0 la caméra ne bouge pas
@@ -43,6 +101,8 @@ La touche espace met le jeu en fullScreen et inversement
 
 ActiveScrolling permet de changer la taille d'affichage avec la molette de la souris.
 
-Projet de :
- - Armel CLOAREC
- - Florian GANDON
+
+## Authors
+
+- [@FlorianGandon](https://github.com/FlorianGandon)
+- [@ArmelCloarec](https://github.com/Zolkennn)

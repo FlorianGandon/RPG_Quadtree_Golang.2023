@@ -1,8 +1,8 @@
 package portal
 
 import (
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/configuration"
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/particle"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/configuration"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/particle"
 )
 
 // renvoie si le joueur peut se téléporter et où

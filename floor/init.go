@@ -1,10 +1,10 @@
 package floor
 
 import (
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/configuration"
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/generation"
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/quadtree"
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/tiles"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/configuration"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/generation"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/quadtree"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/tiles"
 
 	"bufio"
 	"log"

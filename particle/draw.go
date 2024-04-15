@@ -1,9 +1,9 @@
 package particle
 
 import (
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/configuration"
 	"github.com/hajimehoshi/ebiten/v2"
 	"github.com/hajimehoshi/ebiten/v2/vector"
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/configuration"
 	"math"
 )
 

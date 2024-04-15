@@ -1,11 +1,11 @@
 package portal
 
 import (
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/assets"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/configuration"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/particle"
 	"github.com/hajimehoshi/ebiten/v2"
 	"github.com/hajimehoshi/ebiten/v2/ebitenutil"
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/assets"
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/configuration"
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/particle"
 	"image"
 )
 

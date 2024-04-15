@@ -1,7 +1,7 @@
 package quadtree
 
 import (
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/tiles"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/tiles"
 )
 
 // MakeFromArray construit un quadtree représentant un terrain

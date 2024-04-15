@@ -1,6 +1,6 @@
 package game
 
-import "gitlab.univ-nantes.fr/jezequel-l/quadtree/configuration"
+import "github.com/FlorianGandon/RPG_Quadtree_Golang.2023/configuration"
 
 // Init initialise les données d'un jeu. Il faut bien
 // faire attention à l'ordre des initialisation car elles

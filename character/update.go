@@ -1,10 +1,9 @@
 package character
 
 import (
-	"github.com/hajimehoshi/ebiten/v2/inpututil"
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/configuration"
-
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/configuration"
 	"github.com/hajimehoshi/ebiten/v2"
+	"github.com/hajimehoshi/ebiten/v2/inpututil"
 )
 
 // Update met à jour la position du personnage, son orientation

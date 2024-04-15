@@ -6,10 +6,10 @@ import (
 
 	"github.com/hajimehoshi/ebiten/v2"
 
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/configuration"
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/game"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/configuration"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/game"
 
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/assets"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/assets"
 )
 
 func main() {

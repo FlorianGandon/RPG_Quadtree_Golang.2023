@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/tiles"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/tiles"
 )
 
 func sont_different(t1 [][]tiles.Tiles, t2 [][]tiles.Tiles) bool {

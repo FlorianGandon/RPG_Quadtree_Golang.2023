@@ -1,10 +1,10 @@
 package game
 
 import (
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/camera"
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/character"
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/floor"
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/portal"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/camera"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/character"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/floor"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/portal"
 )
 
 // Game est le type permettant de représenter les données du jeu.

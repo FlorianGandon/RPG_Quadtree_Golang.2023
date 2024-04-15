@@ -1,6 +1,6 @@
 package character
 
-import "gitlab.univ-nantes.fr/jezequel-l/quadtree/particle"
+import "github.com/FlorianGandon/RPG_Quadtree_Golang.2023/particle"
 
 const (
 	OrientedDown int = iota

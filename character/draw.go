@@ -3,8 +3,8 @@ package character
 import (
 	"image"
 
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/assets"
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/configuration"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/assets"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/configuration"
 
 	"github.com/hajimehoshi/ebiten/v2"
 )

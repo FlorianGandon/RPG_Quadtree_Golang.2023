@@ -1,10 +1,10 @@
 package floor
 
 import (
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/assets"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/configuration"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/tiles"
 	"github.com/hajimehoshi/ebiten/v2"
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/assets"
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/configuration"
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/tiles"
 	"image"
 )
 

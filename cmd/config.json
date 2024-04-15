@@ -8,7 +8,7 @@
     "NumFramePerCharacterAnimImage": 5,
     "NumTileForDebug": 10,
     "FloorKind": 2,
-    "FloorFile": "../floor-files/rpg",
+    "FloorFile": "../floor-files/water_world",
 
     "CameraMode": 2,
     "StopCamera": false,
@@ -24,7 +24,7 @@
     "ActiveBigStep": true,
     "BigStep": 10,
 
-    "BetterCharacter": true,
+    "BetterCharacter": false,
     "BetterBlocking": true,
 
     "ActivePortal" : true,

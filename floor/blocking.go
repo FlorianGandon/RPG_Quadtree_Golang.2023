@@ -1,7 +1,7 @@
 package floor
 
 import (
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/configuration"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/configuration"
 )
 
 // Blocking retourne, étant donnée la position du personnage,

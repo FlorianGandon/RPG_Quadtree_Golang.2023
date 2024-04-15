@@ -3,9 +3,9 @@ package Save
 import (
 	"encoding/json"
 	"fmt"
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/Coords"
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/configuration"
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/tiles"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/Coords"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/configuration"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/tiles"
 	"os"
 	"path/filepath"
 	"strconv"

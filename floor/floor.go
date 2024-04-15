@@ -1,9 +1,9 @@
 package floor
 
 import (
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/Coords"
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/quadtree"
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/tiles"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/Coords"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/quadtree"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/tiles"
 )
 
 // Floor représente les données du terrain. Pour le moment

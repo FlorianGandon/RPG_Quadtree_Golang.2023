@@ -2,10 +2,10 @@ package game
 
 import (
 	"fmt"
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/generation"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/generation"
 	"image/color"
 
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/configuration"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/configuration"
 
 	"github.com/hajimehoshi/ebiten/v2"
 	"github.com/hajimehoshi/ebiten/v2/ebitenutil"

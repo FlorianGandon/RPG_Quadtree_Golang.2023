@@ -1,6 +1,6 @@
 package portal
 
-import "gitlab.univ-nantes.fr/jezequel-l/quadtree/particle"
+import "github.com/FlorianGandon/RPG_Quadtree_Golang.2023/particle"
 
 // Contient les deux teleporteur
 type Portal struct {

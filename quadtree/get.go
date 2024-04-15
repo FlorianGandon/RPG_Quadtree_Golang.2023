@@ -1,6 +1,6 @@
 package quadtree
 
-import "gitlab.univ-nantes.fr/jezequel-l/quadtree/tiles"
+import "github.com/FlorianGandon/RPG_Quadtree_Golang.2023/tiles"
 
 // GetContent remplit le tableau contentHolder (qui représente
 // un terrain dont la case le plus en haut à gauche a pour coordonnées

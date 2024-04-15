@@ -1,10 +1,10 @@
 package generation
 
 import (
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/Coords"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/configuration"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/tiles"
 	"github.com/mroth/weightedrand"
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/Coords"
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/configuration"
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/tiles"
 )
 
 // DontConnectwith Contraintre enmpechant un case à se générer à coter d'une autre case

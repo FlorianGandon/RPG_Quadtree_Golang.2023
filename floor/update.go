@@ -1,7 +1,7 @@
 package floor
 
 import (
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/configuration"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/configuration"
 )
 
 // Update se charge de stocker dans la structure interne (un tableau)

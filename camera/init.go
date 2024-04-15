@@ -1,7 +1,7 @@
 package camera
 
 import (
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/configuration"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/configuration"
 )
 
 // Init met en place une caméra.

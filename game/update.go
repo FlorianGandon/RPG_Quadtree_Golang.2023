@@ -2,13 +2,13 @@ package game
 
 import (
 	"errors"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/Save"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/configuration"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/generation"
+	"github.com/FlorianGandon/RPG_Quadtree_Golang.2023/tiles"
 	"github.com/hajimehoshi/ebiten/v2"
 	"github.com/hajimehoshi/ebiten/v2/inpututil"
 	"github.com/sqweek/dialog"
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/Save"
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/configuration"
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/generation"
-	"gitlab.univ-nantes.fr/jezequel-l/quadtree/tiles"
 	"log"
 )
 
